@@ -1,6 +1,6 @@
 # Smoking Status Prediction Using Machine Learning
 
-Smoking has been known as a key factor in causing diseases with high mortality rate such as lung diseases, cancer, and cardiovascular disease. The use of machine learning can help to develop effective treatment regimens for smoking cessation and detect any onset of diseases caused by smoking. This can enable early treatment to be given to reverse the condition. This study explored on the performance of three tree-based machine learning models Decision Tree, Random Forest and Extreme Gradient Boosting in predicting smoking status using 19 features. 
+Smoking has been known as a key factor in causing diseases with high mortality rate such as lung diseases, cancer, and cardiovascular disease. The use of machine learning can help to develop effective treatment regimens for smoking cessation and detect any onset of diseases caused by smoking. This can enable early treatment to be given to reverse the condition. This study explored on the performance of three tree-based machine learning models Decision Tree, Random Forest and Extreme Gradient Boosting in predicting smoking status using 19 features. The steps taken for data preprocessing, exploratory data analysis, model implementation and analysis are as presented in each respective file.
 
 ## Tools applied: 
 This project was completed using R programming language. Multiple libraries were used include DataExplorer, doParallel, missForest, missMethods, VIM, caret, rpart, ggplot2, dplyr, tree, randomForest and caTools. 
